@@ -5,7 +5,7 @@
   - **[Programmers] 124 나라의 숫자**
   
     <details markdown="1"> <summary>풀이</summary> 
-    <img src="C:\Users\82105\Desktop\124나라의숫자.jpg"/> </details>
+    <img src="https://user-images.githubusercontent.com/60774058/93547081-373bbe80-f99f-11ea-8872-0fe7d457b5ce.jpg"/> </details>
   
     
   - **[Programmers] 모의고사**
