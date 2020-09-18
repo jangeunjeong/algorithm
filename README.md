@@ -8,28 +8,24 @@
     <img src="C:\Users\82105\Desktop\124나라의숫자.jpg"/> </details>
   
     
-  
   - **[Programmers] 모의고사**
   
     <details markdown="1"> <summary>풀이</summary> 
     <img src="C:\Users\82105\Desktop\모의고사.jpg"/> </details>
   
     
-  
   - **[Programmers] 소수찾기**
   
     <details markdown="1"> <summary>풀이</summary> 
     <img src="C:\Users\82105\Desktop\소수찾기.jpg"/> </details>
   
     
-  
   - **[Programmers] 스킬트리**
   
     <details markdown="1"> <summary>풀이</summary> 
     <img src="C:\Users\82105\Desktop\스킬트리.png"/> </details>
   
     
-  
   - **[Programmers] 추석트래픽**
   
     <details markdown="1"> <summary>풀이</summary> 
@@ -48,3 +44,10 @@
 
     <details markdown="1"> <summary>풀이</summary> 
     <img src="C:\Users\82105\Desktop\수지의수지맞는여행.jpg"/> </details>
+
+- 2020-09-17
+
+  - **[SWEA] 오! 나의 여신님**
+
+    <details markdown="1"> <summary>풀이</summary> 
+    <img src="C:\Users\82105\Desktop\오나의여신님.jpg"/> </details>
