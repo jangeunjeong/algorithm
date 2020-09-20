@@ -50,7 +50,7 @@
   - **[SWEA] 오! 나의 여신님**
 
     <details markdown="1"> <summary>풀이</summary> 
-    <img src="C:\Users\82105\Desktop\오나의여신님.jpg"/> </details>
+    <img src="https://user-images.githubusercontent.com/60774058/93716696-3d52ba80-fbac-11ea-9d58-4dcdd4d5f856.jpg"/> </details>
 
 - 2020-09-18
   
