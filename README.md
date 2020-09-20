@@ -54,3 +54,10 @@
 
 - 2020-09-18
   
+  - **[SWEA] 규영이와 인영이의 카드게임**
+  
+    <details markdown="1"> <summary>풀이</summary> 
+    <img src="C:\Users\82105\Desktop\오나의여신님.jpg"/> </details>
+
+- 2020-09-20
+  - **[SWEA] 스타일리쉬 들여쓰기**
