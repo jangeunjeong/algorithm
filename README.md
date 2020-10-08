@@ -67,4 +67,4 @@
   - **[SWEA] 줄기세포배양**
   
     <details markdown="1"> <summary>풀이</summary> 
-    <img src="file:///C:/Users/82105/Desktop/%EC%A4%84%EA%B8%B0%EC%84%B8%ED%8F%AC%EB%B0%B0%EC%96%91.jpg"/> </details>  
+    <img src="https://user-images.githubusercontent.com/60774058/95435553-afd5df80-098d-11eb-9d35-d02ec26980dd.jpg"/> </details>  
