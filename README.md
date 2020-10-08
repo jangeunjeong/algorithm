@@ -61,3 +61,10 @@
 
 - 2020-09-20
   - **[SWEA] 스타일리쉬 들여쓰기**
+  
+- 2020-10-08
+  
+  - **[SWEA] 줄기세포배양**
+  
+    <details markdown="1"> <summary>풀이</summary> 
+    <img src="file:///C:/Users/82105/Desktop/%EC%A4%84%EA%B8%B0%EC%84%B8%ED%8F%AC%EB%B0%B0%EC%96%91.jpg"/> </details>  
