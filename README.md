@@ -60,11 +60,19 @@
     <img src="C:\Users\82105\Desktop\오나의여신님.jpg"/> </details>
 
 - 2020-09-20
+  
   - **[SWEA] 스타일리쉬 들여쓰기**
   
 - 2020-10-08
   
   - **[SWEA] 줄기세포배양**
   
+    <details markdown="1"> <summary>풀이</summary> 
+    <img src="https://user-images.githubusercontent.com/60774058/95435553-afd5df80-098d-11eb-9d35-d02ec26980dd.jpg"/> </details>  
+
+- 2020-10-13
+
+  - **[SWEA]**보호필름
+
     <details markdown="1"> <summary>풀이</summary> 
     <img src="https://user-images.githubusercontent.com/60774058/95435553-afd5df80-098d-11eb-9d35-d02ec26980dd.jpg"/> </details>  
