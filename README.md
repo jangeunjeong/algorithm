@@ -72,7 +72,7 @@
 
 - 2020-10-13
 
-  - **[SWEA]**보호필름
+  - **[SWEA]보호필름**
 
     <details markdown="1"> <summary>풀이</summary> 
-    <img src="https://user-images.githubusercontent.com/60774058/95435553-afd5df80-098d-11eb-9d35-d02ec26980dd.jpg"/> </details>  
+    <img src="https://user-images.githubusercontent.com/60774058/95819319-afa85c00-0d60-11eb-837b-63fb0bd30075.jpg"/> </details>  
